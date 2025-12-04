@@ -94,43 +94,6 @@ Dependência:    Relatório ┄┄► PDFService
 - **[Visual Paradigm](https://www.visual-paradigm.com/)** - Suite profissional
 - **[Enterprise Architect](https://sparxsystems.com/)** - Ferramenta enterprise
 
-## 📈 Roadmap de Aprendizado
-
-### 🥉 Nível Básico (1-2 semanas)
-- [ ] Compreender anatomia de classes
-- [ ] Dominar associação e herança
-- [ ] Criar primeiro diagrama simples
-
-### 🥈 Nível Intermediário (2-4 semanas)
-- [ ] Dominar todos os 8 relacionamentos
-- [ ] Aplicar multiplicidades corretamente
-- [ ] Modelar sistema de média complexidade
-
-### 🥇 Nível Avançado (1-2 meses)
-- [ ] Aplicar padrões de design
-- [ ] Integrar com outros diagramas UML
-- [ ] Gerar código a partir de diagramas
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. **Fork** o projeto
-2. Crie uma **branch** para sua feature (`git checkout -b feature/AmazingFeature`)
-3. **Commit** suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um **Pull Request**
-
-### 📝 Tipos de Contribuição
-- 🐛 Correção de erros
-- 📚 Melhorias na documentação
-- 💡 Novos exemplos práticos
-- 🎨 Melhorias visuais
-- 🔧 Ferramentas adicionais
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👨‍💻 Autor
 
@@ -144,14 +107,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Comunidade UML pela especificação oficial
 - Desenvolvedores das ferramentas de diagramação
 - Estudantes e profissionais que forneceram feedback
-
-## 📊 Estatísticas
-
-- 📄 **300+ linhas** de documentação detalhada
-- 🎨 **50+ exemplos visuais** em ASCII art
-- 🔗 **8 relacionamentos** completamente explicados
-- 🛠️ **15+ ferramentas** recomendadas
-- ⭐ **100% gratuito** e open source
 
 ---
 
